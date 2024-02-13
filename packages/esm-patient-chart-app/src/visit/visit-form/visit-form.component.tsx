@@ -688,7 +688,6 @@ const StartVisitForm: React.FC<StartVisitFormProps> = ({
               dateFieldName="visitStartDate"
               timeFieldName="visitStartTime"
               timeFormatFieldName="visitStartTimeFormat"
-              maxDate={maxVisitStartDatetime}
             />
 
             {displayVisitStopDateTimeFields && (
@@ -697,7 +696,6 @@ const StartVisitForm: React.FC<StartVisitFormProps> = ({
                 dateFieldName="visitStopDate"
                 timeFieldName="visitStopTime"
                 timeFormatFieldName="visitStopTimeFormat"
-                minDate={minVisitStopDatetime}
               />
             )}
 
