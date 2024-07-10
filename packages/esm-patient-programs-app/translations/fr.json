@@ -3,6 +3,7 @@
   "active": "Actif",
   "activePrograms": "Programmes actifs",
   "add": "Ajouter",
+  "addPrograms": "Add programs",
   "cancel": "Annuller",
   "carePrograms": "Programmes de soins",
   "chooseProgram": "Choisissez un programme",
@@ -28,6 +29,7 @@
   "Programs": "Programs",
   "required": "Requis",
   "saveAndClose": "Sauvegarder et fermer",
+  "saving": "Saving",
   "seeAll": "Voir tout",
   "status": "Statut"
 }

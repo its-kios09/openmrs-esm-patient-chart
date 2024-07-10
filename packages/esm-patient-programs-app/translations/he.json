@@ -3,6 +3,7 @@
   "active": "פעיל",
   "activePrograms": "תוכניות פעילות",
   "add": "הוסף",
+  "addPrograms": "Add programs",
   "cancel": "בטל",
   "carePrograms": "תוכניות טיפול",
   "chooseProgram": "בחר תוכנית",
@@ -28,6 +29,7 @@
   "Programs": "תוכניות",
   "required": "נדרש",
   "saveAndClose": "שמור וסגור",
+  "saving": "Saving",
   "seeAll": "ראה הכל",
   "status": "סטטוס"
 }
